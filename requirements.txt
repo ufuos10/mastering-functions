@@ -1,0 +1,11 @@
+ipython
+textblob
+wikipedia-API
+fire
+pytest
+pytest-cov
+pylint
+black
+fastapi
+uvicorn[standard]
+ipykernel
